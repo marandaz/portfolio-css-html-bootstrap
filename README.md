@@ -10,5 +10,5 @@ No installation needed. This runs in the browser.
 ## Credits
 
 Maranda Zwieschowski 
-[Link to Github](https://github.com/marandaz)
-[Deployed refactor](https://marandaz.github.io/portfolio-css-html-bootstrap/)
+[Link to Github](https://github.com/marandaz) ||
+[Deployed Portfolio](https://marandaz.github.io/portfolio-css-html-bootstrap/)
